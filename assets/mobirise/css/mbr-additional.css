@@ -6,6 +6,9 @@
 #testimonials1-8 .card-block {
   text-align: left;
 }
+#social-buttons2-9 .mbr-section-title {
+  color: #ffffff;
+}
 #menu-4 .navbar-toggler {
   color: #d9534f;
 }
@@ -25,4 +28,14 @@
 }
 #menu-c .navbar-brand {
   font-family: 'Roboto Slab', serif;
+}
+
+#menu-c .navbar-toggler {
+  color: #d9534f;
+}
+#menu-c .navbar-brand {
+  font-family: 'Roboto Slab', serif;
+}
+#pricing-table1-m SPAN {
+  text-align: center;
 }
